@@ -1,6 +1,4 @@
-# test_task
-
-A new Flutter project.
+# Adding google map flutter to the project 
 
 ## Getting Started
 
